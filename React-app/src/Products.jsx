@@ -79,6 +79,25 @@ const Products = () => {
             Free Shipping & Returns from 50$ of purchase.
           </p>
         </div>
+        <div  className="flex flex-wrap justify-right font-mono">
+           <h3>
+            NATURAL & RECYCLED MATERIALS
+              <br/>
+              French linen
+
+              Breathable, comfortable and soft
+              Designed to last a long time
+
+              Strong canvas weave
+              Waterproofed
+
+              To accompany you everywhere even on a rainy day
+              Outsole - Natural and recycled rubber
+
+              Soft, non-slip and comfortable
+              Drytech™
+            </h3>
+        </div>
       </div>
     </div>
   );
